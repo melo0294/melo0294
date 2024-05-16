@@ -1,4 +1,4 @@
-### Hello! I am Paulo Melo. Welcome to my github! 👋
+### Hello! I'm Paulo Melo. Welcome to my github! 👋
 
 ![Paulo Melo GitHub stats](https://github-readme-stats.vercel.app/api?username=melo0294&theme=dark&show_icons=true)
 <br>
